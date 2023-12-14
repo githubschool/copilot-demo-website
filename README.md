@@ -8,6 +8,11 @@ First, clone the repo locally:
 git clone https://github.com/ps-copilot-sandbox/copilot-demo-website.git
 ```
 
+Then open the `index.html` file in your browser to view the webpage:
+
+![Webpage](https://github.com/githubschool/copilot-demo-website/assets/110078080/0a1750bc-ae33-49ef-92aa-7fbbc022603d)
+
+
 Next, prompt Copilot by adding comments that describe what you would like to achieve.
 
 Be creative! You can design whatever sounds most interesting to you.
